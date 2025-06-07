@@ -1,0 +1,13 @@
+/* text shadow & box shadow */
+
+a {
+  background-color: #df494948;
+  display: inline-block;
+
+  height: 100px;
+  margin: 25px;
+}
+
+p {
+  display: none;
+}
